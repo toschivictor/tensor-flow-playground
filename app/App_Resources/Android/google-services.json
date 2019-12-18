@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862844793534",
+    "firebase_url": "https://beat-the-machine-555b7.firebaseio.com",
+    "project_id": "beat-the-machine-555b7",
+    "storage_bucket": "beat-the-machine-555b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862844793534:android:9ca0654fa43788211224ef",
+        "android_client_info": {
+          "package_name": "beatthemachine.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862844793534-jp2j9u8gh1aqelvacrpgl2q0d0pbgbju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ql1NEwtix9PLD2pukUvFq0MIXje8lvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862844793534-jp2j9u8gh1aqelvacrpgl2q0d0pbgbju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

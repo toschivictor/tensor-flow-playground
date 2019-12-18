@@ -1,0 +1,31 @@
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+Page {
+	font-family: "Mohave";
+	background-color: #00f529;
+}
+
+label {
+	text-align: center;
+	font-size: 20;
+	text-transform: uppercase;
+	margin-top: 15;
+	margin-bottom: 10;
+}
+
+.title {
+	font-size: 26;
+	font-weight: bold;
+	color: #fccd39;
+}
+
+.drawer {
+	color: white;
+	background-color: rgb(31, 160, 102);
+}
+
+.fa {
+	font-family: FontAwesome, fontawesome-webfont;
+	color: #fc4428;
+}
